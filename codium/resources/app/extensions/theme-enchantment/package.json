@@ -1,0 +1,21 @@
+{
+    "name": "theme-enchantment",
+    "displayName": "%displayName%",
+    "description": "%description%",
+    "version": "1.0.0",
+    "publisher": "vscode",
+    "license": "GPLV3",
+    "engines": {
+        "vscode": "*"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "id": "Enchantment",
+                "label": "%themeLabel%",
+                "uiTheme": "vs-dark",
+                "path": "./themes/enchantment-color-theme.json"
+            }
+        ]
+    }
+}
