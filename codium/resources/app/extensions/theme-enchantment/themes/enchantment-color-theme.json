@@ -3,7 +3,7 @@
     "tokenColors": [
         {
             "settings": {
-                "foreground": "#9933ff"
+                "foreground": "#bf00ff"
             }
         },
         {
@@ -12,7 +12,7 @@
                 "source.groovy.embedded"
             ],
             "settings": {
-                "foreground": "#9933ff"
+                "foreground": "#bf00ff"
             }
         },
         {
@@ -266,13 +266,13 @@
             ],
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#9933ff"
+                "foreground": "#bf00ff"
             }
         }
     ],
     "colors": {
         "editor.background": "#000000",
-        "editor.foreground": "#9933ff",
+        "editor.foreground": "#bf00ff",
         "focusBorder": "#596F99",
         "input.background": "#181f2f",
         "inputOption.activeBorder": "#1D4A87",
