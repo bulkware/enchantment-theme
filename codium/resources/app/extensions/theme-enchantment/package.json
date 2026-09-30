@@ -13,7 +13,7 @@
             {
                 "id": "Enchantment",
                 "label": "%themeLabel%",
-                "uiTheme": "hc-black",
+                "uiTheme": "vs-dark",
                 "path": "./themes/enchantment-color-theme.json"
             }
         ]
