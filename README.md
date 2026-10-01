@@ -58,5 +58,4 @@ C:\Program Files\<application_name>\resources\app\out\vs\workbench\workbench.des
 .monaco-workbench {
   --vscode-font-family: "'Ubuntu Mono'", monospace !important;
 }
-
 ```
